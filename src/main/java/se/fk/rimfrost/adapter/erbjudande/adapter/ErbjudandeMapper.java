@@ -1,8 +1,8 @@
-package se.fk.rimfrost.framework.erbjudande.adapter;
+package se.fk.rimfrost.adapter.erbjudande.adapter;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import se.fk.rimfrost.framework.erbjudande.model.ImmutableErbjudande;
-import se.fk.rimfrost.framework.erbjudande.model.Erbjudande;
+import se.fk.rimfrost.adapter.erbjudande.model.ImmutableErbjudande;
+import se.fk.rimfrost.adapter.erbjudande.model.Erbjudande;
 import se.fk.rimfrost.jaxrsspec.controllers.generatedsource.model.GetErbjudandeResponse;
 
 @ApplicationScoped

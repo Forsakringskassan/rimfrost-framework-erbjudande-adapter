@@ -1,4 +1,4 @@
-package se.fk.rimfrost.framework.erbjudande.model;
+package se.fk.rimfrost.adapter.erbjudande.model;
 
 import java.util.UUID;
 

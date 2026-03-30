@@ -8,12 +8,12 @@
     <artifactId>fk-maven-parent</artifactId>
     <version>1.11.1</version>
   </parent>
-  <groupId>se.fk.rimfrost.framework.erbjudande</groupId>
-  <artifactId>rimfrost-framework-erbjudande-adapter</artifactId>
+  <groupId>se.fk.rimfrost.adapter.erbjudande</groupId>
+  <artifactId>rimfrost-adapter-erbjudande</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Rimfrost Framework Erbjudande adapter</name>
+  <name>Rimfrost Erbjudande adapter</name>
 
   <distributionManagement>
     <repository>

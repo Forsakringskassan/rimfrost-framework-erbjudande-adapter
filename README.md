@@ -1,1 +1,1 @@
-# rimfrost-framework-erbjudande-adapter
+# rimfrost-adapter-erbjudande
