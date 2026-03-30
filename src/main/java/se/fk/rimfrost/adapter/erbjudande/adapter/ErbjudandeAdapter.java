@@ -1,4 +1,4 @@
-package se.fk.rimfrost.framework.erbjudande.adapter;
+package se.fk.rimfrost.adapter.erbjudande.adapter;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.enterprise.context.ApplicationScoped;
@@ -9,8 +9,8 @@ import org.eclipse.microprofile.config.inject.ConfigProperty;
 import org.glassfish.jersey.apache.connector.ApacheConnectorProvider;
 import org.glassfish.jersey.client.ClientConfig;
 import org.glassfish.jersey.client.proxy.WebResourceFactory;
-import se.fk.rimfrost.framework.erbjudande.model.Erbjudande;
-import se.fk.rimfrost.framework.erbjudande.model.ErbjudandeInterface;
+import se.fk.rimfrost.adapter.erbjudande.model.Erbjudande;
+import se.fk.rimfrost.adapter.erbjudande.model.ErbjudandeInterface;
 import se.fk.rimfrost.jaxrsspec.controllers.generatedsource.ErbjudandeControllerApi;
 import java.util.UUID;
 
